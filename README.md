@@ -1,8 +1,8 @@
-The whatbot-MD todavía no está terminado bot el desarrollo✨
+Paragua - Bot todavía no está terminado bot en desarrollo✨
 
 ### `—◉ DUDAS SOBRE EL BOT?, CONTACTAME ✨`
-<a href="http://wa.me/56977774748" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="http://wa.me/51935116539" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/595985958156" target="blank"><img src="https://img.shields.io/badge/Matias-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.instagram.com/matiass.zzz" target="blank"><img src="https://img.shields.io/badge/Matias-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 
 <p align="center">
