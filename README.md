@@ -7,8 +7,8 @@ Paragua - Bot todavía no está terminado bot en desarrollo✨
 <p align="center">
 <img src="https://telegra.ph/file/fed1c9d94b37511e570d5.mp4" alt="" width="500"/>
 
-[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/8Tml7lGcV-w)  <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="29px">
+[![blog](https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=Instagram&logoColor=white)
+](https://www.instagram.com/matiass.zzz)  <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="29px">
 
 ---------
 
