@@ -277,7 +277,7 @@ const fdoc = {
 
 //━━━━━━━━[ SECCIÓN DEL MENÚ ]━━━━━━━━//
 if (teks == '404') {
-let menuu = `╭─「 𝐒𝐔𝐏𝐄𝐑𝐁𝐎𝐓 - 𝐌𝐃 」
+let menuu = `╭─「 𝑷𝑨𝑹𝑨𝑮𝑼𝑨 - 𝑩𝑶𝑻 」
 ║❥𝙷𝚘𝚕𝚊, ${name} ${ucapan()}
 ║
 ║❥𝙻𝚒𝚖𝚒𝚝𝚎: ${limit}
@@ -288,7 +288,9 @@ let menuu = `╭─「 𝐒𝐔𝐏𝐄𝐑𝐁𝐎𝐓 - 𝐌𝐃 」
 ║
 ║❥𝙱𝚊𝚗𝚎𝚊𝚍𝚘: ✘
 ║
-║❥𝙶𝚛𝚞𝚙𝚘: https://chat.whatsapp.com/Lus9S60MABnH9lF4Wf2T7k
+║❥𝙶𝚛𝚞𝚙𝚘: https://chat.whatsapp.com/JIRYr6hK0gw2PusdUlsG0R
+║
+║❥𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖 : https://www.instagram.com/matiass.zzz
 ║
 ║❥𝚃𝚒𝚎𝚖𝚙𝚘 𝙰𝚌𝚝𝚒𝚟𝚘: ${uptime}
 ║
@@ -476,8 +478,8 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
              {
              urlButton: {
-               displayText: 'Grupo Bot', 
-               url: 'https://chat.whatsapp.com/Lus9S60MABnH9lF4Wf2T7k'
+               displayText: 'Grupo', 
+               url: 'https://chat.whatsapp.com/JIRYr6hK0gw2PusdUlsG0R'
              }
 
            },
