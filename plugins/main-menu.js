@@ -486,7 +486,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                {
              quickReplyButton: {
                displayText: 'Owner',
-               id: '.owner',
+               url: https://wa.me/595985958156,     
              }
 
            },
@@ -499,8 +499,8 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
            {
              quickReplyButton: {
-               displayText: 'infobot',
-               id: '.info',
+               displayText: 'Instagram',
+               url: 'https://www.instagram.com/matiass.zzz',
              }
            }]
          }
