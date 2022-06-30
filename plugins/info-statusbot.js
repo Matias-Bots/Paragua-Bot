@@ -22,15 +22,15 @@ let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/fil
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: 'GITHUB',
-               url: ''
+               displayText: 'Grupo',
+               url: 'https://chat.whatsapp.com/JIRYr6hK0gw2PusdUlsG0R'
              }
 
            },
                {
              quickReplyButton: {
                displayText: 'owner',
-               id: '.owner',
+               url: '.https://wa.me/595985958156',
              }
            },           
                {
