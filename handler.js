@@ -708,7 +708,7 @@ module.exports = {
                         } finally {
                             text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'se unio, bienvenido wey').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
                                 (chat.sBye || this.bye || conn.bye || 'se fue, unos menos 1'))
-                                this.sendHydrated(id, text, groupMetadata.subject, apii.data, 'https://github.com/elrebelde21/The-whatbot-MD', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+                                this.sendHydrated(id, text, groupMetadata.subject, apii.data, 'https://instagram.com/matiass.zzz', '𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼', null, null, [
                             [(action == 'add' ? '𝙱𝙸𝙴𝙽𝚅𝙴𝙽𝙸𝙳𝙾' : '𝙰𝙳𝙸𝙾𝚂'), '...'],    
                             ['𝙼𝙴𝙽𝚄', '/menu']
                             ], '', { mentions: [user]})
