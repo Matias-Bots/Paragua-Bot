@@ -3,7 +3,7 @@
 
 const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, downloadContentFromMessage, downloadHistory, proto, getMessage, generateWAMessageContent, prepareWAMessageMedia } = require('@adiwajshing/baileys')
 let handler = async (m) => {
-let duit = `*╭───── 「 𝐏𝐀𝐑𝐀𝐆𝐔𝐀 - 𝐁𝐎𝐓  」 ──────*
+let duit = `*╭───── 「 𝐓𝐡𝐞 𝐊𝐢𝐧𝐠 𝐁𝐨𝐭  」 ──────*
 │ *menu completo*
 └────
 ╭─「 %category 」
