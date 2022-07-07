@@ -1,4 +1,4 @@
-Paragua - Bot todavía no está terminado bot en desarrollo✨
+The King - Bot todavía no está terminado bot en desarrollo✨
 
 ### `—◉ DUDAS SOBRE EL BOT?, CONTACTAME ✨`
 <a href="http://wa.me/595985958156" target="blank"><img src="https://img.shields.io/badge/Matias-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -20,8 +20,8 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 pkg install yarn
-git clone https://github.com/elrebelde21/The-whatbot-MD
-cd The-whatbot-MD
+git clone https://github.com/Matias-Bots/Paragua-Bot
+cd Paragua-Bot
 yarn
 npm i -g typescript
 npm start 
